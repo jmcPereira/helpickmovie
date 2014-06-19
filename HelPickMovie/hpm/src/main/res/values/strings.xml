@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelPickMovie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_galery">GaleryActivity</string>
+    <string name="title_activity_capture">CaptureActivity</string>
+    <string name="title_activity_crop">CropActivity</string>
+    <string name="title_activity_crop2">Crop2Activity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_corta">CortaActivity</string>
+    <string name="title_activity_corta2">Corta2Activity</string>
+
+</resources>
